@@ -1,0 +1,15 @@
+,experiment_num,selected_features,pnum
+0,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",1.0
+1,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",2.0
+2,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",3.0
+3,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",7.0
+4,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",9.0
+5,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",10.0
+6,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",12.0
+7,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",13.0
+8,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",14.0
+9,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",19.0
+10,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",20.0
+11,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",21.0
+12,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",22.0
+13,0,"['(S)_call_log_duration', '(S)_call_log_complaint']",23.0
